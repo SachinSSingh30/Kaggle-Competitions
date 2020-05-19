@@ -1,4 +1,5 @@
-# Digit Recognition
+#Digit Recognition#
+
 *Using the famous MNIST data for Digit Recognition*
 CNN (Convolutional Neural Networks) is used to make the neural network learn the classification of digits from 0-9 
 
@@ -17,7 +18,7 @@ In this competition, your goal is to correctly identify digits from a dataset of
 
 More details about the dataset, including algorithms that have been tried on it and their levels of success, can be found at [MNIST data trained on various models](http://yann.lecun.com/exdb/mnist/index.html)
 
-# NLP Tweets Classification
+#NLP Tweets Classification#
 
 *👋Welcome to one of our Getting Started machine learning competitions.*
 
@@ -41,7 +42,7 @@ This dataset was created by the company figure-eight and originally shared on th
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
-# House Price Prediction
+#House Price Prediction#
 
 **Competition Description**
 
